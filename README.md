@@ -47,7 +47,9 @@ An ecommerce application integrating a custom storefront with WooCommerce.
 
 ### Contact
 
-- GitHub: https://github.com/SanjitDash758
+- Email: sanjit.dash758@gmail.com
 - Portfolio: https://mesanjit.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/dash-sanjit/
+- GitHub: https://github.com/SanjitDash758
 
 Open to backend engineering projects, API integrations, and software development collaborations.
